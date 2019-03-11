@@ -1,5 +1,4 @@
 {
-      "group":
-  ,   "contacts":   ["slhenry", "yatil"]
-  ,   "shortName":  "wai-home"
+      "contacts":   ["slhenry", "yatil"]
+  ,   "repo-type":  "homepage"
   }
